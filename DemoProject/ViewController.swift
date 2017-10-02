@@ -19,6 +19,8 @@ class ViewController: UIViewController {
             for i in 1...10{
                 print("Task1 \(i)")
             }
+            
+            
         }
         
         let task2 = {
